@@ -72,5 +72,4 @@ tests/rustdoc-gui/src/**.lock
 .fastembed_cache
 
 ## Rust files
-main.rs
 Cargo.lock

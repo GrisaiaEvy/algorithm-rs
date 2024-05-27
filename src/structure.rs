@@ -7,7 +7,7 @@ pub struct ListNode {
 }
 
 impl ListNode {
-    fn new(val: i32) -> Self {
+    pub fn new(val: i32) -> Self {
         ListNode {
             val,
             next: None
